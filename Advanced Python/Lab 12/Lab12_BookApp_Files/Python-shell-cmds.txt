@@ -1,0 +1,77 @@
+#####################################################################
+# Import statements needed to run code in Python shell (python manage.py shell)
+from io import BytesIO
+from rest_framework.renderers import JSONRenderer
+from rest_framework.parsers import JSONParser
+from books.models import Book
+from books.serializers import BookSerializer
+
+# Code to add 2 instances of the Book model to the database
+
+# BOOK 1
+book1 = Book(rank=11, title='Frankenstein', author='Mary Wollstonecraft Shelley', year=1818)
+book1.save()
+
+# BOOK 2
+book2 = Book(rank=12, title='Dracula', author='Bram Stoker', year=1897)
+book2.save()
+
+# VERIFICATION - Print the values just created
+print(book1.id)
+print(book1.title)
+
+print(book2.id)
+print(book2.title)
+
+
+
+#####################################################################
+# RUN SERIALIZER - Call serializer
+book_serializer1 = BookSerializer(book1)
+print(book_serializer1.data)
+
+book_serializer2 = BookSerializer(book2)
+print(book_serializer2.data)
+
+# NOTE: Output from BookSerializer() is a Python Dictionary 
+
+
+#####################################################################
+# NOW DESERIALIZE - Call renderer
+# JSONRenderer (https://www.django-rest-framework.org/api-guide/renderers/#jsonrenderer)
+#   - Renders request data into JSON using utf-8 encoding
+renderer = JSONRenderer()
+renderer_book1 = renderer.render(book_serializer1.data)
+renderer_book2 = renderer.render(book_serializer2.data)
+print(renderer_book1)
+print(renderer_book2)
+
+# NOTE: Output from JSONRenderer() is BYTES b'{...}
+
+
+
+#####################################################################
+# CREATE BOOK 3 instance using serialized data 
+json_string_for_new_book = '{"rank": 13, "title": "Moby-Dick", "author": "Herman Melville", "year": 1851}'
+
+# Convert the string to Bytes to get into renderer format
+json_bytes_for_new_book = bytes(json_string_for_new_book, encoding="UTF-8")
+stream_for_new_book = BytesIO(json_bytes_for_new_book)
+
+# Parse the stream into native datatypes
+parser = JSONParser()
+parsed_new_book = parser.parse(stream_for_new_book)
+print(parsed_new_book)
+
+# NOTE: Output from parser is DICTIONARY {...}
+
+# RUN SERIALIZER - Call serializer using data parsed from "stream"
+new_book_serializer = BookSerializer(data=parsed_new_book)
+if new_book_serializer.is_valid():
+    new_book = new_book_serializer.save()
+    print(new_book.id)
+    print(new_book.title)
+    print(new_book.author)
+    
+# EXIT shell
+quit()

@@ -1,0 +1,78 @@
+# Charlotte Hornet Top 15 Player Stats
+hornets:
+    players:
+    # Player 1      
+    - rank: 1
+      name: LaMelo Ball    
+      pos: PG
+      ppg: 23.3   
+    # Player 2
+    - rank: 2
+      name: Terry Rozier
+      pos: SG
+      ppg: 21.8
+    # Player 3
+    - rank: 3
+      name: Kelly Oubre Jr
+      pos: SG
+      ppg: 20.2
+    # Player 4
+    - rank: 4
+      name: P.J. Washington
+      pos: PF
+      ppg: 15.2
+    # Player 5
+    - rank: 5
+      name: Gordon Hayward
+      pos: SF
+      ppg: 13.9
+    # Player 6
+    - rank: 6
+      name: Mason Plumlee
+      pos: C
+      ppg: 12.2
+    # Player 7
+    - rank: 7
+      name: Svi Mykhailiuk
+      pos: SG
+      ppg: 12.0
+    # Player 8
+    - rank: 8
+      name: Jalen McDaniels
+      pos: PF
+      ppg: 10.6
+    # Player 9
+    - rank: 9
+      name: Dennis Smith Jr
+      pos: PG
+      ppg: 8.4
+    # Player 10
+    - rank: 10
+      name: Nick Richards
+      pos: C
+      ppg: 8.0
+    # Player 11
+    - rank: 11
+      name: Mark Williams
+      pos: C
+      ppg: 7.6
+    # Player 12
+    - rank: 12
+      name: Theo Maledon
+      pos: PG
+      ppg: 5.6
+    # Player 13
+    - rank: 13
+      name: Cody Martin
+      pos: SF
+      ppg: 5.0
+    # Player 14
+    - rank: 14
+      name: James Bouknight
+      pos: SG
+      ppg: 4.3
+    # Player 15
+    - rank: 15
+      name: Bryce McGowens
+      pos: G
+      ppg: 4.1

@@ -1,0 +1,14 @@
+# Use HTTPie to enter HTTP CRUD requests using the API
+From directory ..\project-books\django_books>
+
+# Read all Book entries
+http GET “:8000/books/api/”
+
+# Create a new Book entry with an incorrect year value
+http POST “:8000/books/api/” rank=14 title=”The Count of Monte Cristo” author=”Alexandre Dumas” year=1944
+
+# Update this Book entry (id=14) with corrected year
+http PUT “:8000/books/api/14/” rank=14 title=”The Count of Monte Cristo” author=”Alexandre Dumas” year=1844
+
+# Delete this Book entry (id=14)
+http DELETE ":8000/books/api/14/"

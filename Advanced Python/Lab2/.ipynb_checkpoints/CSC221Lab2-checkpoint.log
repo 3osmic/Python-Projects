@@ -1,0 +1,4 @@
+2024-01-22 17:25:27,637 - question8_log - ERROR - This is an ERROR message.
+2024-01-22 17:25:27,637 - question8_log - ERROR - This is an ERROR message.
+2024-01-22 17:25:27,639 - question8_log - CRITICAL - This is a CRITICAL message.
+2024-01-22 17:25:27,639 - question8_log - CRITICAL - This is a CRITICAL message.

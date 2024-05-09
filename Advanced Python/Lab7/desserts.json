@@ -1,0 +1,30 @@
+{
+    "Cookies": [
+        "Chocolate Chip",
+        "Peanut Butter",
+        "Oatmeal Raisin",
+        "Macaroons",
+        "Sugar"
+    ],
+    "Cakes": [
+        "Chocolate",
+        "Red Velvet",
+        "Lemon",
+        "Black Forest",
+        "Cheesecake"
+    ],
+    "Ice Cream": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Mint Chocolate Chip",
+        "Butter Pecan"
+    ],
+    "Pastries": [
+        "Bear Claw",
+        "Cinnamon Roll",
+        "Beignets",
+        "Doughnut",
+        "Pain Au Chocolat"
+    ]
+}

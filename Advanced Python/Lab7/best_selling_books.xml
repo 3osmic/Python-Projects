@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BESTSELLERS>
+    <BOOK>
+        <TITLE>A Tale of Two Cities</TITLE>
+        <AUTHOR>Charles Dickens</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1859</PUBLISHED>
+        <SALES>200 million</SALES>
+        <GENRE>Historical fiction</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Little Prince</TITLE>
+        <AUTHOR>Antoine de Saint-Exupery</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1943</PUBLISHED>
+        <SALES>200 million</SALES>
+        <GENRE>Novella</GENRE>
+    </BOOK>
+    <BOOK>
+
+        <TITLE>Harry Potter and the Philosopher's Stone</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1997</PUBLISHED>
+        <SALES>120 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>And Then There Were None</TITLE>
+        <AUTHOR>Agatha Christie</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1939</PUBLISHED>
+        <SALES>100 million</SALES>
+        <GENRE>Mystery</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Dream of the Red Chamber</TITLE>
+        <AUTHOR>Cao Xueqin</AUTHOR>
+        <LANGUAGE>Chinese</LANGUAGE>
+        <PUBLISHED>1791</PUBLISHED>
+        <SALES>100 million</SALES>
+        <GENRE>Family saga</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Hobbit</TITLE>
+        <AUTHOR>J. R. R. Tolkien</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1937</PUBLISHED>
+        <SALES>100 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Lion, the Witch and the Wardrobe</TITLE>
+        <AUTHOR>C. S. Lewis</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1950</PUBLISHED>
+        <SALES>85 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>She: A History of Adventure</TITLE>
+        <AUTHOR>H. Rider Haggard</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1887</PUBLISHED>
+        <SALES>83 million</SALES>
+        <GENRE>Adventure</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Vardi Wala Gunda</TITLE>
+        <AUTHOR>Ved Prakash Sharma</AUTHOR>
+        <LANGUAGE>Hindi</LANGUAGE>
+        <PUBLISHED>1992</PUBLISHED>
+        <SALES>80 million</SALES>
+        <GENRE>Detective</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Da Vinci Code</TITLE>
+        <AUTHOR>Dan Brown</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>2003</PUBLISHED>
+        <SALES>80 million</SALES>
+        <GENRE>Mystery thriller</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Chamber of Serets</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1998</PUBLISHED>
+        <SALES>77 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Prisoner of Azkaban</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1999</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Goblet of Fire</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>2000</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Order of the Phoenix</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>2003</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Half-Blood Prince</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>2005</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Harry Potter and the Deathly Hallows</TITLE>
+        <AUTHOR>J. K. Rowling</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>2007</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Alchemist (O Alquimista)</TITLE>
+        <AUTHOR>Paulo Coelho</AUTHOR>
+        <LANGUAGE>Portuguese</LANGUAGE>    
+        <PUBLISHED>1988</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Fantasy</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Catcher in the Rye</TITLE>
+        <AUTHOR>J. D. Salinger</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1951</PUBLISHED>
+        <SALES>65 million</SALES>
+        <GENRE>Coming-of-age</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>The Bridges of Madison County</TITLE>
+        <AUTHOR>Robert James Waller</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1992</PUBLISHED>
+        <SALES>60 million</SALES>
+        <GENRE>Romance</GENRE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Ben-Hur: A Tale of the Christ</TITLE>
+        <AUTHOR>Lew Wallace</AUTHOR>
+        <LANGUAGE>English</LANGUAGE>
+        <PUBLISHED>1880</PUBLISHED>
+        <SALES>50 million</SALES>
+        <GENRE>Historical fiction</GENRE>
+    </BOOK>
+</BESTSELLERS>

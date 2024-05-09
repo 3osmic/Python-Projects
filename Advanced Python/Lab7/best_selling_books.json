@@ -1,0 +1,145 @@
+{
+    "Best Selling Books": [
+    {
+        "Book":"A Tale of Two Cities",
+        "Author(s)":"Charles Dickens",
+        "Language":"English",
+        "Published":1859,
+        "Sales":"200 million",
+        "Genre":"Historical fiction"
+    },{
+        "Book":"The Little Prince",
+        "Author(s)":"Antoine de Saint-Exupery",
+        "Language":"English",
+        "Published":1943,
+        "Sales":"200 million",
+        "Genre":"Novella"
+    },{
+        "Book":"Harry Potter and the Philosopher's Stone",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":1997,
+        "Sales":"120 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"And Then There Were None",
+        "Author(s)":"Agatha Christie",
+        "Language":"English",
+        "Published":1939,
+        "Sales":"100 million",
+        "Genre":"Mystery"
+    },{
+        "Book":"Dream of the Red Chamber",
+        "Author(s)":"Cao Xueqin",
+        "Language":"Chinese",
+        "Published":1791,
+        "Sales":"100 million",
+        "Genre":"Family saga"
+    },{
+        "Book":"The Hobbit",
+        "Author(s)":"J. R. R. Tolkien",
+        "Language":"English",
+        "Published":1937,
+        "Sales":"100 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"The Lion, the Witch and the Wardrobe",
+        "Author(s)":"C. S. Lewis",
+        "Language":"English",
+        "Published":1950,
+        "Sales":"85 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"She: A History of Adventure",
+        "Author(s)":"H. Rider Haggard",
+        "Language":"English",
+        "Published":1887,
+        "Sales":"83 million",
+        "Genre":"Adventure"
+    },{
+        "Book":"Vardi Wala Gunda",
+        "Author(s)":"Ved Prakash Sharma",
+        "Language":"Hindi",
+        "Published":1992,
+        "Sales":"80 million",
+        "Genre":"Detective"
+    },{
+        "Book":"The Da Vinci Code",
+        "Author(s)":"Dan Brown",
+        "Language":"English",
+        "Published":2003,
+        "Sales":"80 million",
+        "Genre":"Mystery thriller"
+    },{
+        "Book":"Harry Potter and the Chamber of Serets",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":1998,
+        "Sales":"77 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"Harry Potter and the Prisoner of Azkaban",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":1999,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"Harry Potter and the Goblet of Fire",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":2000,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"Harry Potter and the Order of the Phoenix",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":2003,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"Harry Potter and the Half-Blood Prince",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":2005,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"Harry Potter and the Deathly Hallows",
+        "Author(s)":"J. K. Rowling",
+        "Language":"English",
+        "Published":2007,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"The Alchemist (O Alquimista)",
+        "Author(s)":"Paulo Coelho",
+        "Language":"Portuguese",
+        "Published":1988,
+        "Sales":"65 million",
+        "Genre":"Fantasy"
+    },{
+        "Book":"The Catcher in the Rye",
+        "Author(s)":"J. D. Salinger",
+        "Language":"English",
+        "Published":1951,
+        "Sales":"65 million",
+        "Genre":"Coming-of-age"
+    },{
+        "Book":"The Bridges of Madison County",
+        "Author(s)":"Robert James Waller",
+        "Language":"English",
+        "Published":1992,
+        "Sales":"60 million",
+        "Genre":"Romance"
+    },{
+        "Book":"Ben-Hur: A Tale of the Christ",
+        "Author(s)":"Lew Wallace",
+        "Language":"English",
+        "Published":1880,
+        "Sales":"50 million",
+        "Genre":"Historical fiction"
+    }
+    ]
+}
